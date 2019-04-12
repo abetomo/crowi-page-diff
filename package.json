@@ -1,0 +1,34 @@
+{
+  "name": "crowi-page-diff",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "crowi-page-diff": "./index.js"
+  },
+  "scripts": {
+    "lint": "standard index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abetomo/crowi-page-diff.git"
+  },
+  "keywords": [
+    "crowi",
+    "diff"
+  ],
+  "author": "abetomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abetomo/crowi-page-diff/issues"
+  },
+  "homepage": "https://github.com/abetomo/crowi-page-diff#readme",
+  "dependencies": {
+    "diff": "^4.0.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
