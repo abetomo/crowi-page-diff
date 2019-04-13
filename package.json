@@ -8,7 +8,8 @@
   },
   "scripts": {
     "lint": "standard index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run lint && npm run unit",
+    "unit": "echo 'Info: no test specified'"
   },
   "repository": {
     "type": "git",
