@@ -26,10 +26,10 @@
   },
   "homepage": "https://github.com/abetomo/crowi-page-diff#readme",
   "dependencies": {
-    "diff": "^4.0.1",
-    "request": "^2.88.0"
+    "diff": "^4.0.2",
+    "request": "^2.88.2"
   },
   "devDependencies": {
-    "standard": "^12.0.1"
+    "standard": "^14.3.3"
   }
 }
